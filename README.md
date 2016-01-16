@@ -1,6 +1,8 @@
 # StarWarsTransition
 Slide transition for UINavigationController seen in Star Wars films
 
+![](https://raw.githubusercontent.com/dasdom/StarWarsTransition/master/demo.gif)
+
 # Installation
 Put the file `DHStarWarsTransition.swift` into your project.
 
